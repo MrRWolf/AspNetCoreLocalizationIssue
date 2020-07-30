@@ -1,0 +1,4 @@
+﻿.vs/
+MyService/bin/
+MyService/obj/
+*.user
