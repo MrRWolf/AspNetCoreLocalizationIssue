@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Localization;
 
-namespace MyService.Controllers
+namespace MyCompany.MyService.Controllers
 {
     [ApiController]
     [Route("[controller]")]
